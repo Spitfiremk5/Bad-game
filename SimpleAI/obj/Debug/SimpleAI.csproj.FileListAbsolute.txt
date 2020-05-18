@@ -1,0 +1,9 @@
+D:\VS projects\SimpleAI\bin\Debug\SimpleAI.exe.config
+D:\VS projects\SimpleAI\bin\Debug\SimpleAI.exe
+D:\VS projects\SimpleAI\bin\Debug\SimpleAI.pdb
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.csprojAssemblyReference.cache
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.Form1.resources
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.Properties.Resources.resources
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.csproj.GenerateResource.cache
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.exe
+D:\VS projects\SimpleAI\obj\Debug\SimpleAI.pdb
